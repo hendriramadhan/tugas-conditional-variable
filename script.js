@@ -4,6 +4,7 @@ const jamKerja = 30;
 const Kerja = jamKerja > 40 ? "terlalu lama bekerja" : "sesuai pekerjaan";
 console.log(Kerja);
 
+//--
 const waktuBelajar = 120;
 
 const kurang = waktuBelajar < 150 && "kurang waktu belajar"; //output harus true untuk menampilkan data
